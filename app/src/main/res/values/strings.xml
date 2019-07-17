@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">SAM</string>
+    <string name="action_settings">Settings</string>
+    <string name="medicamentos">Medicamentos</string>
+    <string name="Nome">Nome</string>
+    <string name="Quantidade">Dosagem</string>
+    <string name="adicionar">ADICIONAR</string>
+    <string name="nome_lembrete">Nome do lembrete</string>
+    <string name="nome_medicamento">Nome do medicamento</string>
+    <string name="quant">Quant.</string>
+    <string name="dosagem">Dosagem</string>
+    <string name="tipo">Tipo</string>
+    <string name="intervalo">Intervalo:</string>
+    <string name="data_in_cio">Data Início</string>
+    <string name="diariamente">Diariamente</string>
+    <string name="intervalo_entre_doses">Intervalo entre doses</string>
+    <string name="hor_rio_primeira_dose">Horário primeira dose</string>
+    <string name="data_t_rmino">Data término</string>
+    <string name="selecione">Selecione</string>
+    <string name="tipo_do_medicamento">Tipo do medicamento</string>
+
+    <string-array name="tipos">
+        <item>Cápsula</item>
+        <item>Pílula</item>
+        <item>Gotas</item>
+        <item>ml</item>
+        <item>Sachê</item>
+        <item>Drágea</item>
+
+    </string-array>
+
+</resources>
